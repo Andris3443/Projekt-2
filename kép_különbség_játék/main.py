@@ -1,7 +1,7 @@
 import tkinter as tk
 from PIL import Image, ImageTk
 
-# Itt add meg a különbségek pozícióit (x, y koordináták a képen belül)
+#(x, y koordináták a képen belül)
 differences = [
     (565, 520),  # Példa különbség koordinátái
     (520, 310),
