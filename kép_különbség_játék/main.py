@@ -14,8 +14,8 @@ differences = [
 found_differences = []
 
 # Képek elérési útvonala
-image1_path = "c:/Image1.jpg"  # Az első kép
-image2_path = "c:/Image2.jpg"  # A második kép
+image1_path = "kép_különbség_játék/Image1.jpg"  # Az első kép
+image2_path = "kép_különbség_játék/Image2.jpg"  # A második kép
 
 # Ellenőrző funkció (kattintásra)
 def check_difference(event):
