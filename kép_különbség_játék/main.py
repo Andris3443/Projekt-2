@@ -2,7 +2,6 @@ import tkinter as tk
 from PIL import Image, ImageTk
 
 # Itt add meg a különbségek pozícióit (x, y koordináták a képen belül)
-# Ezeket te határozhatod meg!
 differences = [
     (565, 520),  # Példa különbség koordinátái
     (520, 310),
@@ -10,6 +9,7 @@ differences = [
     (90, 210),
     (10, 145),
     (285, 425),
+    (145, 180),
 ]
 found_differences = []
 
